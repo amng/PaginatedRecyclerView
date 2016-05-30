@@ -7,3 +7,6 @@ of pages and elements per page that is defined by the application. This way ther
 the specified number of elements (number of pages * number of elements per page) in memory.
 
 Dependencies: [Malinskiy SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)
+
+
+![Paginated Recycler View illustration](http://i.imgur.com/2RWqW2q.jpg)
