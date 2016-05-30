@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="item_number">This is the item number %d</string>
+</resources>

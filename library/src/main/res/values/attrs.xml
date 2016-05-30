@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PaginatedRecyclerView">
+        <attr name="pageSize" format="integer" />
+        <attr name="maxPagesInMem" format="integer"/>
+        <attr name="loadOffset" format="integer"/>
+        <attr name="onLoadMoreDown" format="string"/>
+        <attr name="onLoadMoreUp" format="string"/>
+        <attr name="layoutMoreProgress" format="reference"/>
+    </declare-styleable>
+</resources>
