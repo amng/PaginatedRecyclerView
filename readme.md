@@ -10,3 +10,7 @@ Dependencies: [Malinskiy SuperRecyclerView](https://github.com/Malinskiy/SuperRe
 
 
 ![Paginated Recycler View illustration](http://i.imgur.com/2RWqW2q.jpg)
+
+Current limitations: Only LinearLayoutManager is supported
+
+Contributors: [OptimistNot](https://github.com/OptimistNot)
